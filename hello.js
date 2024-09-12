@@ -1,2 +1,2 @@
-const username = "anastasiialoskutova"; // Змініть на ваше ім'я користувача
+const username = "anastasiialoskutova"; 
 console.log(`Hello, ${username}`);
